@@ -3,7 +3,7 @@
 </p>
 
 <h2 align="center">
-  <a href="https://example.com/project-ppt-link">📊 프로젝트 발표 프레젠테이션</a>
+  <a href="https://docs.google.com/presentation/d/1CXdXO51N49Jm3MBly5phEeGhM8nwgiyJ/edit?usp=sharing&ouid=117478836458658184968&rtpof=true&sd=true">📊 프로젝트 발표 프레젠테이션</a>
 </h2>
 
 ![Last Commit](https://img.shields.io/github/last-commit/your-repo/sanmo-health-ai)

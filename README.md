@@ -19,53 +19,6 @@
 
 ## 🗓️ 프로젝트 일정
 
-![Uploading<!--?xml version="1.0" encoding="UTF-8"?-->
-<svg width="1000" height="200" viewBox="0 0 1000 200" xmlns="http://www.w3.org/2000/svg" font-family="Verdana, Arial, sans-serif">
-
-  <!-- 스타일 정의 -->
-  <style>
-    .label   { font-size: 14px; font-weight: 700; text-anchor: middle; }
-    .date    { font-size: 12px; fill: #666; text-anchor: middle; }
-    .marker  { stroke: #fff; stroke-width: 3; }
-    .line    { stroke: #ccc; stroke-width: 4; }
-  </style>
-
-  <!-- 수평 라인 -->
-  <line x1="80" y1="100" x2="920" y2="100" class="line"></line>
-
-  <!-- 각 단계 좌표 (x) -->
-  <!-- 1 -->
-  <circle cx="80" cy="100" r="12" fill="#4CAF50" class="marker"></circle>
-  <text x="80" y="70" class="label">주제 선정 &amp; 요구 분석</text>
-  <text x="80" y="135" class="date">03.20</text>
-
-  <!-- 2 -->
-  <circle cx="260" cy="100" r="12" fill="#2196F3" class="marker"></circle>
-  <text x="260" y="70" class="label">데이터 수집 &amp; 전처리</text>
-  <text x="260" y="135" class="date">03.21 – 03.23</text>
-
-  <!-- 3 -->
-  <circle cx="440" cy="100" r="12" fill="#FFC107" class="marker"></circle>
-  <text x="440" y="70" class="label">분석 모델 구축</text>
-  <text x="440" y="135" class="date">03.24 – 03.25</text>
-
-  <!-- 4 -->
-  <circle cx="620" cy="100" r="12" fill="#9C27B0" class="marker"></circle>
-  <text x="620" y="70" class="label">시각화 &amp; 대시보드</text>
-  <text x="620" y="135" class="date">03.26</text>
-
-  <!-- 5 -->
-  <circle cx="800" cy="100" r="12" fill="#FF5722" class="marker"></circle>
-  <text x="800" y="70" class="label">시스템 테스트 &amp; 결과</text>
-  <text x="800" y="135" class="date">03.27</text>
-
-  <!-- 6 -->
-  <circle cx="920" cy="100" r="12" fill="#607D8B" class="marker"></circle>
-  <text x="920" y="70" class="label">발표 자료 &amp; 보고</text>
-  <text x="920" y="135" class="date">03.28</text>
-
-</svg>
- Timeline.svg…]()
 
 
 ---

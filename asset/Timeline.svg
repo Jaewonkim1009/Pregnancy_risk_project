@@ -1,0 +1,41 @@
+<!--?xml version="1.0" encoding="UTF-8"?-->
+<svg width="1000" height="160" xmlns="http://www.w3.org/2000/svg">
+
+  <style>
+    .label  { font: 14px sans-serif; fill: #333; text-anchor: middle; }
+    .date   { font: 12px sans-serif; fill: #666; text-anchor: middle; }
+    .icon   { font: 14px sans-serif; font-weight: bold; alignment-baseline: middle; }
+    .desc   { font: 12px sans-serif; fill: #444; text-anchor: middle; }
+  </style>
+
+  <!-- 진행 바 -->
+  <rect x="100" y="60" width="800" height="10" rx="5" fill="#1976d2"></rect>
+  <rect x="300" y="60" width="2" height="10" fill="#fff"></rect>
+  <rect x="500" y="60" width="2" height="10" fill="#fff"></rect>
+  <rect x="700" y="60" width="2" height="10" fill="#fff"></rect>
+
+  <!-- 마커 -->
+  <circle cx="100" cy="65" r="6" fill="#0d47a1"></circle>
+  <circle cx="900" cy="65" r="6" fill="#0d47a1"></circle>
+
+  <!-- 주차 텍스트 -->
+  <text x="200" y="40" class="label">Week 1</text>
+  <text x="400" y="40" class="label">Week 2</text>
+  <text x="600" y="40" class="label">Week 3</text>
+  <text x="800" y="40" class="label">Week 4</text>
+
+  <!-- milestone 설명 -->
+  <text x="200" y="100" class="desc">주제 선정 &amp; 요구 분석</text>
+  <text x="400" y="100" class="desc">데이터 수집 &amp; 전처리</text>
+  <text x="600" y="100" class="desc">모델 개발 &amp; 시각화</text>
+  <text x="800" y="100" class="desc">대시보드 구현 및 발표</text>
+
+  <!-- 날짜 -->
+  <text x="100" y="135" class="date">2025-03-20</text>
+  <text x="900" y="135" class="date">2025-03-28</text>
+
+  <!-- 시작/종료 아이콘 -->
+  <text x="95" y="50" class="icon" text-anchor="end">🚀 시작</text>
+  <text x="905" y="50" class="icon" text-anchor="start">🏁 종료</text>
+
+</svg>

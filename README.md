@@ -18,7 +18,7 @@
 
 ## 🗓️ 프로젝트 일정
 
-![Timeline](https://github.com/user-attachments/assets/56458f9a-0070-4c51-a448-db10f751ddc3)<p align='center'>
+![Timeline](asset/Timeline.svg)<p align='center'>
 ---
 ## 🎯 프로젝트 목적 및 기대 효과
 

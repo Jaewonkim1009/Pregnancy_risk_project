@@ -46,7 +46,7 @@
   `Jupyter Notebook`, `Visual Studio Code`, `GitHub`
 
 - **데이터 출처**  
-  `Kaggle`, `공공데이터포털`
+  `Kaggle`
 
 - **시각화 도구**  
   `Seaborn`, `Matplotlib`, `Plotly`, `Streamlit`

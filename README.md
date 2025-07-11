@@ -1,4 +1,4 @@
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=280&section=header&text=산모%20건강%20데이터%20분석과%20예측&fontSize=45&animation=fadeIn&fontAlignY=38&desc=AI%20기반%20산모%20위험도%20예측%20시스템%20구축&descAlignY=70&descAlign=60"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=320&section=header&text=산모%20건강%20데이터%20분석과%20예측&fontSize=45&animation=fadeIn&fontAlignY=38&desc=AI%20기반%20산모%20위험도%20예측%20시스템%20구축&descAlignY=70&descAlign=60"/>
 </p>
 
 <h2 align="center">

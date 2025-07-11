@@ -1,4 +1,3 @@
-![Timeline](https://github.com/user-attachments/assets/56458f9a-0070-4c51-a448-db10f751ddc3)<p align='center'>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=280&section=header&text=산모%20건강%20데이터%20분석과%20예측&fontSize=45&animation=fadeIn&fontAlignY=38&desc=AI%20기반%20산모%20위험도%20예측%20시스템%20구축&descAlignY=70&descAlign=60"/>
 </p>
 
@@ -19,8 +18,7 @@
 
 ## 🗓️ 프로젝트 일정
 
-
-
+![Timeline](https://github.com/user-attachments/assets/56458f9a-0070-4c51-a448-db10f751ddc3)<p align='center'>
 ---
 ## 🎯 프로젝트 목적 및 기대 효과
 

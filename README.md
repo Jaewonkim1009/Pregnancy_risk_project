@@ -101,7 +101,7 @@
 
 ## 📽️ 시연 영상
 
-👉 [시연 영상 보기 (Google Drive)](https://drive.google.com/file/d/1AxbLzMSTKeDrFxk_ctRXTZLF1e6eg5V9/view?usp=drive_link)
+[시연 영상 보기 (Google Drive)](https://drive.google.com/file/d/1AxbLzMSTKeDrFxk_ctRXTZLF1e6eg5V9/view?usp=drive_link)
 
 ---
 
@@ -128,6 +128,3 @@
 
 ---
 
-## 📜 라이선스
-
-이 프로젝트는 [MIT License](./LICENSE) 를 따릅니다.

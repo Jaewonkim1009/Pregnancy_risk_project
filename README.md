@@ -1,4 +1,4 @@
-<p align='center'>
+![Timeline](https://github.com/user-attachments/assets/56458f9a-0070-4c51-a448-db10f751ddc3)<p align='center'>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=280&section=header&text=산모%20건강%20데이터%20분석과%20예측&fontSize=45&animation=fadeIn&fontAlignY=38&desc=AI%20기반%20산모%20위험도%20예측%20시스템%20구축&descAlignY=70&descAlign=60"/>
 </p>
 
@@ -17,6 +17,58 @@
 
 ---
 
+## 🗓️ 프로젝트 일정
+
+![Uploading<!--?xml version="1.0" encoding="UTF-8"?-->
+<svg width="1000" height="200" viewBox="0 0 1000 200" xmlns="http://www.w3.org/2000/svg" font-family="Verdana, Arial, sans-serif">
+
+  <!-- 스타일 정의 -->
+  <style>
+    .label   { font-size: 14px; font-weight: 700; text-anchor: middle; }
+    .date    { font-size: 12px; fill: #666; text-anchor: middle; }
+    .marker  { stroke: #fff; stroke-width: 3; }
+    .line    { stroke: #ccc; stroke-width: 4; }
+  </style>
+
+  <!-- 수평 라인 -->
+  <line x1="80" y1="100" x2="920" y2="100" class="line"></line>
+
+  <!-- 각 단계 좌표 (x) -->
+  <!-- 1 -->
+  <circle cx="80" cy="100" r="12" fill="#4CAF50" class="marker"></circle>
+  <text x="80" y="70" class="label">주제 선정 &amp; 요구 분석</text>
+  <text x="80" y="135" class="date">03.20</text>
+
+  <!-- 2 -->
+  <circle cx="260" cy="100" r="12" fill="#2196F3" class="marker"></circle>
+  <text x="260" y="70" class="label">데이터 수집 &amp; 전처리</text>
+  <text x="260" y="135" class="date">03.21 – 03.23</text>
+
+  <!-- 3 -->
+  <circle cx="440" cy="100" r="12" fill="#FFC107" class="marker"></circle>
+  <text x="440" y="70" class="label">분석 모델 구축</text>
+  <text x="440" y="135" class="date">03.24 – 03.25</text>
+
+  <!-- 4 -->
+  <circle cx="620" cy="100" r="12" fill="#9C27B0" class="marker"></circle>
+  <text x="620" y="70" class="label">시각화 &amp; 대시보드</text>
+  <text x="620" y="135" class="date">03.26</text>
+
+  <!-- 5 -->
+  <circle cx="800" cy="100" r="12" fill="#FF5722" class="marker"></circle>
+  <text x="800" y="70" class="label">시스템 테스트 &amp; 결과</text>
+  <text x="800" y="135" class="date">03.27</text>
+
+  <!-- 6 -->
+  <circle cx="920" cy="100" r="12" fill="#607D8B" class="marker"></circle>
+  <text x="920" y="70" class="label">발표 자료 &amp; 보고</text>
+  <text x="920" y="135" class="date">03.28</text>
+
+</svg>
+ Timeline.svg…]()
+
+
+---
 ## 🎯 프로젝트 목적 및 기대 효과
 
 - 산모의 건강 지표를 기반으로 **위험도(저위험, 중위험, 고위험) 예측**
@@ -102,18 +154,6 @@
 
 ---
 
-## 🗓️ 프로젝트 일정
-
-| 단계 | 내용 | 기간 |
-|------|------|------|
-| 1 | 주제 선정 및 요구 분석 | 2025.03.20 |
-| 2 | 데이터 수집 및 전처리 | ~ 2025.03.23 |
-| 3 | 분석 모델 구축 | ~ 2025.03.25 |
-| 4 | 시각화 및 대시보드 구현 | ~ 2025.03.26 |
-| 5 | 시스템 테스트 및 결과 도출 | ~ 2025.03.27 |
-| 6 | 발표 자료 및 결과 보고 | ~ 2025.03.28 |
-
----
 
 ## 📈 프로젝트 성과 요약
 

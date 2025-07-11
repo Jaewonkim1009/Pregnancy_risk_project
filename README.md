@@ -87,6 +87,7 @@
 
 - **대시보드:** 사용자 입력 기반 위험도 예측 결과 제공
 - **Streamlit 기반 인터페이스:** 누구나 손쉽게 사용할 수 있는 시각화 중심 플랫폼
+<img width="481" height="754" alt="sidebar" src="https://github.com/user-attachments/assets/c7eeac7e-ad40-4626-897a-c1bd71624a6c" />
 
 ---
 

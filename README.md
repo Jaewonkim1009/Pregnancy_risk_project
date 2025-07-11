@@ -18,6 +18,7 @@
 
 ![Timeline](asset/Timeline.svg)<p align='center'>
 ---
+
 ## 🎯 프로젝트 목적 및 기대 효과
 
 - 산모의 건강 지표를 기반으로 **위험도(저위험, 중위험, 고위험) 예측**
